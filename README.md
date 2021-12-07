@@ -2,8 +2,7 @@
 
 The infra developer at kk corp building network stack using `terraform` for sandbox environment for their developers.
 
- 
-![KK Automation: VPC network stack deployment](images/vpc.png)
+ ![KK Automation: VPC network stack](images/vpc.PNG)
 
 
 1. ## Pre-requisites
