@@ -80,6 +80,7 @@ The infra developer at kk corp building network stack using `terraform` for sand
     terraform destroy
     OR 
     terraform plan -destroy -out=tfdestroyplan.out
+	terraform apply tfdestroyplan.out
    ```
 
    This is not an exhaustive list, please carry out other necessary steps as maybe applicable to your needs.
